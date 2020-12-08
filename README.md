@@ -89,11 +89,7 @@ CC BY-SA 4.0 (see LICENSE).
 
 Citation
 -------
-If using this dataset, please cite the following paper in any relevant work:
-~~~
-@article{du2020schema,
-  title={Schema-Guided  Natural  Language  Generation},
-  author={Du,  Yuheng  and  Oraby,  Shereen  and  Perera,  Vittorio  and  Shen,  Minmin  and  Narayan-Chen,  Anjali  and  Chung,  Tagyoung  and  Venkatesh,  Anu  and  Hakkani-Tur,  Dilek},
-  journal={arXiv  preprint  arXiv:2005.05480},
-  year={2020}
-}
+If using this dataset in any relevant work, please cite the following papers:
+
+- The SG-NLG Dataset, ["Schema-Guided Natural Language Generation"](https://www.aclweb.org/anthology/2020.inlg-1.35/), INLG 2020
+- The original SGD Dataset, ["Towards Scalable Multi-domain Conversational Agents: The Schema-Guided Dialogue Dataset"](https://ojs.aaai.org//index.php/AAAI/article/view/6394), AAAI 2020
